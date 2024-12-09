@@ -1,0 +1,10 @@
+# Installation Instructions
+# To install the dependencies listed in this file, run the following command:
+# ```sh
+# pip install -r requirements.txt
+# ```
+
+pandas==2.0.3
+sodapy==2.0.1
+folium==0.14.0
+python-dotenv==1.0.0
