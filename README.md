@@ -22,7 +22,7 @@ Before running the script, make sure you have the following Python packages inst
 You can install these dependencies using pip:
 
 ```bash
-pip install pandas folium sodapy python-dotenv requests
+pip install pandas folium sodapy python-dotenv
 ```
 
 ## Setup
