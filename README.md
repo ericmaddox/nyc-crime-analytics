@@ -18,7 +18,6 @@ Before running the script, make sure you have the following Python packages inst
 - `folium`
 - `sodapy`
 - `dotenv`
-- `requests`
 
 You can install these dependencies using pip:
 
