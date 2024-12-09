@@ -9,6 +9,8 @@ This project analyzes and visualizes crime data from the New York City Police De
 - Includes a time range of the data on the map.
 - Saves the map as an HTML file for easy viewing in any web browser.
 
+![Heatmap Demo](https://github.com/ericmaddox/nyc-crime-analytics/blob/main/media/Heatmap_demo.jpg)
+
 ## Requirements
 Before running the script, make sure you have the following Python packages installed:
 
