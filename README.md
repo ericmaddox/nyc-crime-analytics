@@ -1,5 +1,11 @@
 # NYC Crime Analytics
 
+![License](https://img.shields.io/github/license/ericmaddox/nyc-crime-analytics.svg)
+![Issues](https://img.shields.io/github/issues/ericmaddox/nyc-crime-analytics.svg)
+![Forks](https://img.shields.io/github/forks/ericmaddox/nyc-crime-analytics.svg)
+![Stars](https://img.shields.io/github/stars/ericmaddox/nyc-crime-analytics.svg)
+![Contributors](https://img.shields.io/github/contributors/ericmaddox/nyc-crime-analytics.svg)
+
 This project analyzes and visualizes crime data from the New York City Police Department. It fetches crime data using the NYC Open Data API and generates an interactive map that displays crime locations across New York City. The map includes markers for individual crime incidents and heatmaps for different crime types. Additionally, the time range of the data is displayed on the map.
 
 ## Features
